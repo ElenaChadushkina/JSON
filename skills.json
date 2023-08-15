@@ -1,0 +1,57 @@
+{
+"Basic_testing_theory":[
+	"What is testing",
+	"Bug reports",
+	"Test documentation",
+	"SDLC",
+	"STLC",
+	"Design Test Techniques"
+],
+"HTTP":[
+	"Methods",
+	"Status code",
+	"Structure of requests and responses"
+],
+"Data_exchange_formats":[
+	"JSON",
+	"XML"
+],
+"API_testing":[
+	"Postman",
+	"JS",
+	"Autotests API"
+],
+"Traffic_sniffing":[
+	"Charles",
+	"Fiddler"
+],
+"Dev_Tools":[
+	"Google Chrome",
+	"Firefox"
+],
+"VPN":[
+	"How it works",
+	"How to use it",
+	"Tool options"
+],
+"Mobile_testing":[
+	"iOS",
+	"Android",
+	"Guidelines",
+	"XCode",
+	"Android Studio",
+	"ADB"
+],
+"Terminal": "GitBash",
+"SQL":[
+	"The basics",
+	"Postgres",
+	"Redis"
+],
+"Load_testing":"Jmeter",
+"Python":[
+	"The basics",
+	"Creating a client server application"
+]
+}
+
